@@ -1,0 +1,16 @@
+{
+  "name": "stringify-json-thread",
+  "version": "1.0.0",
+  "description": "JSON stringify in worker-thread",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "gmail:vegarringdal/stringify-json-thread"
+  },
+  "keywords": [
+    "JSON.stringify",
+    "stringify"
+  ],
+  "author": "vegar.ringdal@gmail.com",
+  "license": "MIT"
+}
